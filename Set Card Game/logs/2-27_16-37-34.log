@@ -1,0 +1,150 @@
+[16:37:34.624] [INFO   ] thread main starting.
+[16:37:34.632] [SEVERE ] cannot read configuration file config.properties trying from resources.
+[16:37:34.640] [SEVERE ] configuration file was loaded from resources directory.
+[16:37:35.426] [INFO   ] thread dealer starting.
+[16:37:35.427] [INFO   ] thread dealer starting.
+[16:37:35.429] [INFO   ] thread Thread-1 starting.
+[16:37:35.430] [INFO   ] thread Thread-2 starting.
+[16:37:35.544] [SEVERE ] placing card 43 in slot 0
+[16:37:35.652] [SEVERE ] placing card 77 in slot 4
+[16:37:35.762] [SEVERE ] placing card 5 in slot 8
+[16:37:35.874] [SEVERE ] placing card 54 in slot 1
+[16:37:35.984] [SEVERE ] placing card 56 in slot 5
+[16:37:36.095] [SEVERE ] placing card 50 in slot 9
+[16:37:36.207] [SEVERE ] placing card 57 in slot 2
+[16:37:36.319] [SEVERE ] placing card 4 in slot 6
+[16:37:36.430] [SEVERE ] placing card 78 in slot 10
+[16:37:36.538] [SEVERE ] placing card 33 in slot 3
+[16:37:36.648] [SEVERE ] placing card 8 in slot 7
+[16:37:36.757] [SEVERE ] placing card 19 in slot 11
+[16:37:36.757] [SEVERE ] updating countdown to 60950
+[16:37:36.867] [SEVERE ] updating countdown to 60850
+[16:37:36.976] [SEVERE ] updating countdown to 60750
+[16:37:37.086] [SEVERE ] updating countdown to 60650
+[16:37:37.158] [SEVERE ] key 81 was pressed by player 1
+[16:37:37.159] [SEVERE ] player 1 placing token on slot 0
+[16:37:37.196] [SEVERE ] updating countdown to 60550
+[16:37:37.197] [SEVERE ] key 87 was pressed by player 1
+[16:37:37.197] [SEVERE ] player 1 placing token on slot 1
+[16:37:37.296] [SEVERE ] key 69 was pressed by player 1
+[16:37:37.296] [SEVERE ] player 1 placing token on slot 2
+[16:37:37.297] [SEVERE ] setting player 1 freeze to 3950
+[16:37:37.305] [SEVERE ] updating countdown to 60450
+[16:37:37.395] [SEVERE ] setting player 1 freeze to 3850
+[16:37:37.406] [SEVERE ] updating countdown to 60350
+[16:37:37.494] [SEVERE ] setting player 1 freeze to 3750
+[16:37:37.508] [SEVERE ] updating countdown to 60250
+[16:37:37.591] [SEVERE ] setting player 1 freeze to 3650
+[16:37:37.610] [SEVERE ] updating countdown to 60150
+[16:37:37.690] [SEVERE ] setting player 1 freeze to 3550
+[16:37:37.712] [SEVERE ] updating countdown to 60050
+[16:37:37.789] [SEVERE ] setting player 1 freeze to 3450
+[16:37:37.813] [SEVERE ] updating countdown to 59950
+[16:37:37.887] [SEVERE ] setting player 1 freeze to 3350
+[16:37:37.915] [SEVERE ] updating countdown to 59850
+[16:37:37.986] [SEVERE ] setting player 1 freeze to 3250
+[16:37:38.016] [SEVERE ] updating countdown to 59750
+[16:37:38.084] [SEVERE ] setting player 1 freeze to 3150
+[16:37:38.118] [SEVERE ] updating countdown to 59650
+[16:37:38.183] [SEVERE ] setting player 1 freeze to 3050
+[16:37:38.219] [SEVERE ] updating countdown to 59550
+[16:37:38.281] [SEVERE ] setting player 1 freeze to 2950
+[16:37:38.320] [SEVERE ] updating countdown to 59450
+[16:37:38.381] [SEVERE ] setting player 1 freeze to 2850
+[16:37:38.422] [SEVERE ] updating countdown to 59350
+[16:37:38.478] [SEVERE ] setting player 1 freeze to 2750
+[16:37:38.524] [SEVERE ] updating countdown to 59250
+[16:37:38.577] [SEVERE ] setting player 1 freeze to 2650
+[16:37:38.626] [SEVERE ] updating countdown to 59150
+[16:37:38.675] [SEVERE ] setting player 1 freeze to 2550
+[16:37:38.727] [SEVERE ] updating countdown to 59050
+[16:37:38.756] [SEVERE ] key 69 was pressed by player 1
+[16:37:38.773] [SEVERE ] setting player 1 freeze to 2450
+[16:37:38.830] [SEVERE ] updating countdown to 58950
+[16:37:38.872] [SEVERE ] setting player 1 freeze to 2350
+[16:37:38.885] [SEVERE ] key 87 was pressed by player 1
+[16:37:38.931] [SEVERE ] updating countdown to 58850
+[16:37:38.957] [SEVERE ] key 81 was pressed by player 1
+[16:37:38.971] [SEVERE ] setting player 1 freeze to 2250
+[16:37:39.033] [SEVERE ] updating countdown to 58750
+[16:37:39.068] [SEVERE ] setting player 1 freeze to 2150
+[16:37:39.133] [SEVERE ] updating countdown to 58650
+[16:37:39.166] [SEVERE ] setting player 1 freeze to 2050
+[16:37:39.235] [SEVERE ] updating countdown to 58550
+[16:37:39.264] [SEVERE ] setting player 1 freeze to 1950
+[16:37:39.337] [SEVERE ] updating countdown to 58450
+[16:37:39.362] [SEVERE ] setting player 1 freeze to 1850
+[16:37:39.437] [SEVERE ] updating countdown to 58350
+[16:37:39.461] [SEVERE ] setting player 1 freeze to 1750
+[16:37:39.538] [SEVERE ] updating countdown to 58250
+[16:37:39.560] [SEVERE ] setting player 1 freeze to 1650
+[16:37:39.641] [SEVERE ] updating countdown to 58150
+[16:37:39.658] [SEVERE ] setting player 1 freeze to 1550
+[16:37:39.743] [SEVERE ] updating countdown to 58050
+[16:37:39.757] [SEVERE ] setting player 1 freeze to 1450
+[16:37:39.844] [SEVERE ] updating countdown to 57950
+[16:37:39.855] [SEVERE ] setting player 1 freeze to 1350
+[16:37:39.946] [SEVERE ] updating countdown to 57850
+[16:37:39.953] [SEVERE ] setting player 1 freeze to 1250
+[16:37:40.047] [SEVERE ] updating countdown to 57750
+[16:37:40.052] [SEVERE ] setting player 1 freeze to 1150
+[16:37:40.149] [SEVERE ] updating countdown to 57650
+[16:37:40.149] [SEVERE ] setting player 1 freeze to 1050
+[16:37:40.247] [SEVERE ] setting player 1 freeze to 0
+[16:37:40.263] [SEVERE ] updating countdown to 57550
+[16:37:40.372] [SEVERE ] updating countdown to 57450
+[16:37:40.486] [SEVERE ] updating countdown to 57350
+[16:37:40.504] [SEVERE ] key 69 was pressed by player 1
+[16:37:40.504] [SEVERE ] removing player 1 token from slot 2
+[16:37:40.595] [SEVERE ] updating countdown to 57250
+[16:37:40.613] [SEVERE ] key 87 was pressed by player 1
+[16:37:40.613] [SEVERE ] removing player 1 token from slot 1
+[16:37:40.675] [SEVERE ] key 81 was pressed by player 1
+[16:37:40.675] [SEVERE ] removing player 1 token from slot 0
+[16:37:40.705] [SEVERE ] updating countdown to 57150
+[16:37:40.815] [SEVERE ] updating countdown to 57050
+[16:37:40.926] [SEVERE ] updating countdown to 56950
+[16:37:41.037] [SEVERE ] updating countdown to 56850
+[16:37:41.148] [SEVERE ] updating countdown to 56750
+[16:37:41.258] [SEVERE ] updating countdown to 56650
+[16:37:41.366] [SEVERE ] updating countdown to 56550
+[16:37:41.477] [SEVERE ] updating countdown to 56450
+[16:37:41.589] [SEVERE ] updating countdown to 56350
+[16:37:41.700] [SEVERE ] updating countdown to 56250
+[16:37:41.811] [SEVERE ] updating countdown to 56150
+[16:37:41.920] [SEVERE ] updating countdown to 56050
+[16:37:42.028] [SEVERE ] updating countdown to 55950
+[16:37:42.137] [SEVERE ] updating countdown to 55850
+[16:37:42.246] [SEVERE ] updating countdown to 55750
+[16:37:42.303] [SEVERE ] exit button pressed
+[16:37:42.303] [INFO   ] thread Thread-1 terminated.
+[16:37:42.304] [INFO   ] thread Thread-2 terminated.
+[16:37:42.354] [SEVERE ] disposing of user interface elements
+[16:37:42.464] [SEVERE ] removing tokens from slot 0
+[16:37:42.464] [SEVERE ] removing card from slot 0
+[16:37:42.573] [SEVERE ] removing tokens from slot 1
+[16:37:42.573] [SEVERE ] removing card from slot 1
+[16:37:42.683] [SEVERE ] removing tokens from slot 2
+[16:37:42.683] [SEVERE ] removing card from slot 2
+[16:37:42.794] [SEVERE ] removing tokens from slot 3
+[16:37:42.794] [SEVERE ] removing card from slot 3
+[16:37:42.905] [SEVERE ] removing tokens from slot 4
+[16:37:42.905] [SEVERE ] removing card from slot 4
+[16:37:43.015] [SEVERE ] removing tokens from slot 5
+[16:37:43.015] [SEVERE ] removing card from slot 5
+[16:37:43.125] [SEVERE ] removing tokens from slot 6
+[16:37:43.126] [SEVERE ] removing card from slot 6
+[16:37:43.234] [SEVERE ] removing tokens from slot 7
+[16:37:43.234] [SEVERE ] removing card from slot 7
+[16:37:43.343] [SEVERE ] removing tokens from slot 8
+[16:37:43.343] [SEVERE ] removing card from slot 8
+[16:37:43.451] [SEVERE ] removing tokens from slot 9
+[16:37:43.451] [SEVERE ] removing card from slot 9
+[16:37:43.560] [SEVERE ] removing tokens from slot 10
+[16:37:43.560] [SEVERE ] removing card from slot 10
+[16:37:43.670] [SEVERE ] removing tokens from slot 11
+[16:37:43.670] [SEVERE ] removing card from slot 11
+[16:37:43.671] [SEVERE ] announcing winner(s): player 1, player 2
+[16:37:43.673] [INFO   ] thread dealer terminated.
+[16:37:43.673] [SEVERE ] thanks for playing... it was fun!
+[16:37:43.673] [INFO   ] thread main terminated.
