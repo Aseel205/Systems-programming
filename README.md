@@ -32,17 +32,6 @@ In this assignment, you will implement a simple version of the **Set Card Game**
 
 ---
 
-## Technologies Used Across Projects:
-- **C++**: Object-Oriented Programming, Multi-threading, Memory Management, System Programming
-- **Networking**: TCP/IP (TFTP Protocol)
-- **Game Logic**: Set Card Game, Warehouse Simulation
-
-
-
-
----
-
-
 ## 3. Warehouse Management System (C++)
 
 ### General Description:
@@ -58,6 +47,16 @@ This assignment involves designing an object-oriented **Food Warehouse Managemen
 
 ---
 
+
+---
+
+## Technologies Used Across Projects:
+- **C++**: Object-Oriented Programming, Multi-threading, Memory Management, System Programming
+- **Networking**: TCP/IP (TFTP Protocol)
+- **Game Logic**: Set Card Game, Warehouse Simulation
+
+
+---
 
 
 
